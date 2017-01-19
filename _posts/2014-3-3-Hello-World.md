@@ -5,7 +5,7 @@ title: Welcome to IFS!
 
 Team Members:
 
--Ian Lin
--Mooven Soobaroyen
--Kashif Yamin
--Michael Zuccaro
+- Ian Lin
+- Mooven Soobaroyen
+- Kashif Yamin
+- Michael Zuccaro
