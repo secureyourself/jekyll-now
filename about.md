@@ -16,7 +16,7 @@ permalink: /about/
 ### Contact Us
 
 <ul>
-<li>Michael - [mzuccaro1@myseneca.ca](mailto:mzuccaro1@myseneca.ca)</li>
+<li>[mzuccaro1@myseneca.ca](mailto:mzuccaro1@myseneca.ca)</li>
 <li>Ian - [malin4@myseneca.ca](mailto:malin4@myseneca.ca)</li>
 <li>Mooven - [msoobaroyen@myseneca.ca](mailto:msoobaroyen@myseneca.ca)</li>
 <li>Kashif - [kyamin@myseneca.ca](mailto:kyamin@myseneca.ca)</li>
