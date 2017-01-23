@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project proposal
+title: Project Proposal
 permalink: /proposal/
 ---
 
-Still to be decided
+Currently in the process of being decided.
