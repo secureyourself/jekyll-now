@@ -10,4 +10,6 @@ Team Members:
 - Kashif Yamin
 - Michael Zuccaro
 
+<html>
 {% include comments.html %}
+</html>
