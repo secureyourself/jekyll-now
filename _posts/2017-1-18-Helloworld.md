@@ -9,3 +9,5 @@ Team Members:
 - Mooven Soobaroyen
 - Kashif Yamin
 - Michael Zuccaro
+
+{% include comments.html %}
