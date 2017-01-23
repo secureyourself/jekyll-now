@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Group Members
+Michael Zuccaro
+Ian Lin
+Mooven Soobaroyen
+Kashif Yamin
 
-### More Information
+### Contact Us
 
-A place to include any other types of information that you'd like to include about yourself.
+mzuccaro1@myseneca.ca
+malin4@myseneca.ca
+msoobaroyen@myseneca.ca
+kyamin@myseneca.ca
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[mzuccaro1@myseneca.ca](mailto:mzuccaro1@myseneca.ca)
