@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Plan
-permalink: /projectplan/
+permalink: /plan/
 ---
 
 Currently in the process of being decided.
