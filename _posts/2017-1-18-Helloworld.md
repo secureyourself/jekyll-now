@@ -9,7 +9,3 @@ Team Members:
 - Mooven Soobaroyen
 - Kashif Yamin
 - Michael Zuccaro
-
-<html>
-{% include comments.html %}
-</html>
